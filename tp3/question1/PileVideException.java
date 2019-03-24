@@ -3,8 +3,8 @@ package question1;
 /**
  * Décrivez votre classe PilePleineException ici.
  * 
- * @author (votre nom)
- * @version (un numéro de version ou une date)
+ * @author Elie DAHER
+ * @version v1.0
  */
 public class PileVideException extends Exception {
 }

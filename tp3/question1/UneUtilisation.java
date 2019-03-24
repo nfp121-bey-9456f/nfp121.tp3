@@ -8,7 +8,7 @@ public class UneUtilisation {
 		// p1 est ici une pile de polygones réguliers PolygoneRegulier.java
 
 		p1.empiler(new PolygoneRegulier(5, 100));
-		p1.empiler("polygone");
+		p1.empiler("p1olygone");
 		p1.empiler(new Integer(100));
 		System.out.println(" la pile p1 = " + p1); // Quel est le résultat ?
 
