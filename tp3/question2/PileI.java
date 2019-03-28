@@ -15,7 +15,6 @@ public interface PileI {
     public int taille();
     public boolean estVide();
     public boolean estPleine();
-    
     public boolean equals(Object o);
     public int hashCode();
     public String toString();
